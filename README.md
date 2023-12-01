@@ -6,8 +6,6 @@
 ## Expertise
 <img align="left" alt="react-js" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
 <img align="left" alt="react-js" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-<img align="left" alt="react-js" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
-<img alt="react-js" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D">
 <img align="left" alt="node-js" src="https://img.shields.io/badge/-node_js-339933?style=for-the-badge&logo=node.js&logoColor=white">
 <img alt="postgresql" src="https://img.shields.io/badge/-postgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white">
 <img align="left" alt="js" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
