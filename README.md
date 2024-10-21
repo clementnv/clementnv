@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @clementnv
-- 👀 I’m developer React from 5 years (JS and Native)
-- 💼 I'm technical manager at Kephyre
+- 👀 I’m developer React from 6 years (JS and Native)
+- 💼 I'm Lead Tech Mobile
 - 💞️ I’m looking to collaborate on anwsome project
 
 ## Expertise
