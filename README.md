@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @clementnv
-- 👀 I’m developer React from 6 years (JS and Native)
+- 👀 I’m developer React from 7 years (JS and Native)
 - 💼 I'm Lead Tech Mobile
 - 💞️ I’m looking to collaborate on anwsome project
 
